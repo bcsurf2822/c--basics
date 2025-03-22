@@ -1,0 +1,14 @@
+/Users/benjamincorbett/code/klobot/net/loops/bin/Debug/net9.0/loops
+/Users/benjamincorbett/code/klobot/net/loops/bin/Debug/net9.0/loops.deps.json
+/Users/benjamincorbett/code/klobot/net/loops/bin/Debug/net9.0/loops.runtimeconfig.json
+/Users/benjamincorbett/code/klobot/net/loops/bin/Debug/net9.0/loops.dll
+/Users/benjamincorbett/code/klobot/net/loops/bin/Debug/net9.0/loops.pdb
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/loops.AssemblyInfoInputs.cache
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/loops.AssemblyInfo.cs
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/loops.csproj.CoreCompileInputs.cache
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/loops.dll
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/refint/loops.dll
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/loops.pdb
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/loops.genruntimeconfig.cache
+/Users/benjamincorbett/code/klobot/net/loops/obj/Debug/net9.0/ref/loops.dll

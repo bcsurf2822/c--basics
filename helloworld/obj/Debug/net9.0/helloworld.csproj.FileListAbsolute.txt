@@ -1,0 +1,14 @@
+/Users/benjamincorbett/code/klobot/net/helloworld/bin/Debug/net9.0/helloworld
+/Users/benjamincorbett/code/klobot/net/helloworld/bin/Debug/net9.0/helloworld.deps.json
+/Users/benjamincorbett/code/klobot/net/helloworld/bin/Debug/net9.0/helloworld.runtimeconfig.json
+/Users/benjamincorbett/code/klobot/net/helloworld/bin/Debug/net9.0/helloworld.dll
+/Users/benjamincorbett/code/klobot/net/helloworld/bin/Debug/net9.0/helloworld.pdb
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfoInputs.cache
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfo.cs
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/helloworld.dll
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/refint/helloworld.dll
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/helloworld.pdb
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/helloworld.genruntimeconfig.cache
+/Users/benjamincorbett/code/klobot/net/helloworld/obj/Debug/net9.0/ref/helloworld.dll

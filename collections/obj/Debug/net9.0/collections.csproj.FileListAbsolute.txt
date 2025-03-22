@@ -1,0 +1,14 @@
+/Users/benjamincorbett/code/klobot/net/collections/bin/Debug/net9.0/collections
+/Users/benjamincorbett/code/klobot/net/collections/bin/Debug/net9.0/collections.deps.json
+/Users/benjamincorbett/code/klobot/net/collections/bin/Debug/net9.0/collections.runtimeconfig.json
+/Users/benjamincorbett/code/klobot/net/collections/bin/Debug/net9.0/collections.dll
+/Users/benjamincorbett/code/klobot/net/collections/bin/Debug/net9.0/collections.pdb
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/collections.AssemblyInfoInputs.cache
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/collections.AssemblyInfo.cs
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/collections.csproj.CoreCompileInputs.cache
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/collections.dll
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/refint/collections.dll
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/collections.pdb
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/collections.genruntimeconfig.cache
+/Users/benjamincorbett/code/klobot/net/collections/obj/Debug/net9.0/ref/collections.dll
